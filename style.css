@@ -9,7 +9,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background: #f5f5f5;
-    color: #222;
+    color: #ea08f1;
     transition: background 0.3s, color 0.3s;
     background-image: url('1.webp'); /* Imagen para modo claro */
     background-size: cover;    /* Ajusta la imagen para cubrir toda la pantalla */
