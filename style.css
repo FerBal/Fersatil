@@ -97,6 +97,16 @@ body {
             box-shadow: 0 0 16px 4px #3b5998, 0 4px 24px 0 rgba(31, 38, 135, 0.15);
             color: #fff;
         }
+        .links .link-btn:nth-child(5):hover {
+            background: #F56040;
+            box-shadow: 0 0 16px 4px #F56040, 0 4px 24px 0 rgba(31, 38, 135, 0.15);
+            color: #fff;
+        }
+        .links .link-btn:nth-child(6):hover {
+            background: #F6CF65;
+            box-shadow: 0 0 16px 4px #F6CF65, 0 4px 24px 0 rgba(31, 38, 135, 0.15);
+            color: #fff;
+        }
         .dark-mode .link-btn {
     color: #fff;
 }
